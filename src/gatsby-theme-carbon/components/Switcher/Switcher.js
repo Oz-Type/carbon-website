@@ -86,8 +86,8 @@ export const SwitcherLink = ({
 const DefaultChildren = () => (
   <>
     <SwitcherDivider>Information</SwitcherDivider>
-    <SwitcherLink href="https://ibm.com/brand" isInternal>
-      IBM Brand Center
+    <SwitcherLink href="https://ibm.com/bran" isInternal>
+      About us
     </SwitcherLink>
     <SwitcherLink href="https://ibm.com/design/language">
       IBM Design Language
