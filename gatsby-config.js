@@ -46,7 +46,7 @@ module.exports = {
         iconPath: './src/images/favicon.svg',
         titleType: 'prepend',
         repository: {
-          baseUrl: 'https://github.com/carbon-design-system/carbon-website',
+          baseUrl: 'https://github.com/Oz-Type/carbon-website/',
           subDirectory: '',
         },
         mediumAccount: 'carbondesign',
